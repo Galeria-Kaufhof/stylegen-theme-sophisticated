@@ -1,0 +1,27 @@
+{
+  "name": "stylegen-theme-sophisticated",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Falk Hoppe <falkhoppe81@gmail.com>",
+  "contributors": [
+    {
+      "name": "Julia Lauber",
+      "email": "lauber.julia@gmail.com"
+    },
+    {
+      "name": "Nils Klimm",
+      "email": "nils.klimm@kaufhof.de"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
+}
